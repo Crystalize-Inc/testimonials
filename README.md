@@ -2,7 +2,7 @@
 
 Testimonials from our students:
 
-"The way the course modeule is broken down and also the hiring aspect, I love it."
+"The way the course model is broken down and also the hiring aspect, I love it."
 
 "The best part about crystalize is I get to learn from a curated resource and to move forward with other hard working and talented dev students. Shout out to the crystalize team who strive to improve students experience and Pradhumna for always being there to mentor and making sure that we understand and be able to implement what we learnt."
 
